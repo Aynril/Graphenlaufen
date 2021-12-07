@@ -1,3 +1,5 @@
+# I started this project but never actually coded anything, so this is highly obsolete
+
 # Graphenlaufen
 
 A project about a little game
